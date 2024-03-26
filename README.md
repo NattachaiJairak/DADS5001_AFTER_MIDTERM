@@ -7,3 +7,4 @@ This notebook demonstrates how to create line charts using Plotly in Python.
 
 ## Resources
 - [Plotly Line Charts Documentation](https://plotly.com/python/line-charts/)
+![image](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/assets/156494047/8d13e327-f23b-44b1-aecf-535177b407a5)
