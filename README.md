@@ -32,3 +32,9 @@ The data source pertains to CAPEX (Capital Expenditure) for investments in 2024,
 
 This dataset serves as a valuable resource for analysis, planning, and optimizing investment strategies to drive growth and innovation within the organization.
 
+### Notebook Link
+
+For additional analysis and visualization, you can explore the provided Jupyter Notebook on Google Colab:
+
+[DADS5001_2024_03_23_line_charts_Homework.ipynb](https://colab.research.google.com/github/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/DADS5001_2024-03-23/DADS5001_2024_03_23_line_charts_Homework.ipynb#scrollTo=AREw0UVjIFR8)
+
