@@ -1,6 +1,3 @@
-Certainly! Here's how you can present the explanation of the code in a `README.md` file:
-
----
 
 ## Explanation of Code and Data Source
 
@@ -27,11 +24,11 @@ Certainly! Here's how you can present the explanation of the code in a `README.m
     ```python
     df
     ```
+### Data Source Description
 
-The data source mentioned in the code (`Data_Homework.csv`) appears to be related to a project named "CPEX" based on the file name. However, without additional context or information, it's challenging to provide specific details about the data source. 
+The data source pertains to CAPEX (Capital Expenditure) for investments in 2024, categorized by cost center. This dataset provides insights into the allocation of financial resources across different areas of the organization, facilitating informed decision-making aligned with strategic objectives. The data is available in a CSV format accessible via the following URL:
 
-If you could provide more information about the project "CPEX" and the nature of the data in `Data_Homework.csv`, I'd be happy to help further explain how the code interacts with the data and any analysis or processing that could be performed on it.
+[Data_Homework.csv](https://raw.githubusercontent.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/main/DADS5001_2024-03-23/Data_Homework.csv)
 
---- 
+This dataset serves as a valuable resource for analysis, planning, and optimizing investment strategies to drive growth and innovation within the organization.
 
-In the `Explanation of Code and Data Source` section, the code is explained step by step, highlighting its functionality and purpose. The section provides clarity on how the code interacts with the data source and the overall context of the code execution.
