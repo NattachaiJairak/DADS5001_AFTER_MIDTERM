@@ -41,6 +41,4 @@ The provided code generates line charts for each unique value in the 'Classifica
 Overall, line charts are a suitable choice for visualizing this dataset as they effectively highlight trends, comparisons, and patterns in the budget amounts across different categories of 'Classificated'. The provided code generates separate line charts for each category, offering a comprehensive view of the data.
 
 ![image](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/assets/156494047/a7c31fe7-8af1-4620-9d95-0a3a938db9f7)
-![image](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/assets/156494047/8fd65b1f-6204-4909-9231-c612d670771a)
-![image](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/assets/156494047/54acf025-e062-479d-8bbb-6c0abcc51581)
-![image](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/assets/156494047/6133f11c-bcad-4d29-b230-f83ea8fa9c56)
+
