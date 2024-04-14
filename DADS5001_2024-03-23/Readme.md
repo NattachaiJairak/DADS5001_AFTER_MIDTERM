@@ -4,11 +4,11 @@ This repository contains files related to the DADS5001 course after the midterm,
 
 ## Contents
 
-- | [DADS5001_2024_03_23_line_charts.ipynb](./DADS5001_2024_03_23_line_charts.ipynb)  |
-- | [DADS5001_2024_03_23_line_charts_Homework.ipynb](./DADS5001_2024_03_23_line_charts_Homework.ipynb) | 
-- | [DADS5001_2024_03_23_line_charts_exercise V.2.ipynb](./DADS5001_2024_03_23_line_charts_exercise_V.2.ipynb) | 
-- | [DADS5001_2024_03_23_line_charts_exercise.ipynb](./DADS5001_2024_03_23_line_charts_exercise.ipynb) | 
-- | [Data_Homework.csv](./Data_Homework.csv)   | 
+-  [DADS5001_2024_03_23_line_charts.ipynb](./DADS5001_2024_03_23_line_charts.ipynb) 
+-  [DADS5001_2024_03_23_line_charts_exercise V.2.ipynb](./DADS5001_2024_03_23_line_charts_exercise_V.2.ipynb) 
+-  [DADS5001_2024_03_23_line_charts_exercise.ipynb](./DADS5001_2024_03_23_line_charts_exercise.ipynb)
+-  [DADS5001_2024_03_23_line_charts_Homework.ipynb](./DADS5001_2024_03_23_line_charts_Homework.ipynb) 
+-  [Data_Homework.csv](./Data_Homework.csv)   
 
 ## Reference Links
 
