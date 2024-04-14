@@ -10,7 +10,7 @@
 
    3.1 https://dash.plotly.com/installation
 
-5. Lab plotly: https://colab.research.google.com/drive/1u9UtBFgnJKxroV3h7XJw7JxbPaGuHGlL?authuser=1#scrollTo=Vc6lXCuXfMJF
+5. Lab plotly: [https://colab.research.google.com/drive/1u9UtBFgnJKxroV3h7XJw7JxbPaGuHGlL?authuser=1#scrollTo=Vc6lXCuXfMJF](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/DADS5001_2024-03-16/DADS5001_2024-03-16_In%20Class_week9_pk.ipynb)
 6. Exercise: https://www.kaggle.com/datasets/starbucks/store-locations
 7. Note: https://github.com/chrismeller/
 
