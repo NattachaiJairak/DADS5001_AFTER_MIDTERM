@@ -16,3 +16,4 @@ This repository contains files related to the DADS5001 course after the midterm,
 - [Plotly Text and Annotations Documentation](https://plotly.com/python/text-and-annotations/)
 - [New York Times - History of Olympic Dominance Charts](https://www.nytimes.com/interactive/2016/08/08/sports/olympics/history-olympic-dominance-charts.html)
 
+https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/DADS5001_2024-03-23/2024-04-14%2022_44_04-DADS5001_AfterMidterm_Class2_2024-03-23.MOV.png
