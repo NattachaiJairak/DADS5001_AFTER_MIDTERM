@@ -4,10 +4,15 @@ This repository contains files related to the DADS5001 course after the midterm,
 
 ## Contents
 
-- [DADS5001_2024_03_23_line_charts.ipynb](./DADS5001_2024_03_23_line_charts.ipynb) -> Inclass
-- [DADS5001_2024_03_23_line_charts_exercise.ipynb](./DADS5001_2024_03_23_line_charts_exercise.ipynb)
-- [DADS5001_2024_03_23_line_charts_Homework.ipynb](./DADS5001_2024_03_23_line_charts_Homework.ipynb)
-- [Data_Homework.csv](./Data_Homework.csv)
+| Name                                          | Last commit message       | Last commit date |
+|-----------------------------------------------|---------------------------|------------------|
+| parent directory                             |                           |                  |
+| ..                                            |                           |                  |
+| [DADS5001_2024_03_23_line_charts.ipynb](./DADS5001_2024_03_23_line_charts.ipynb)          | Created using Colaboratory | 3 weeks ago      |
+| [DADS5001_2024_03_23_line_charts_Homework.ipynb](./DADS5001_2024_03_23_line_charts_Homework.ipynb) | Created using Colab       | 2 minutes ago    |
+| [DADS5001_2024_03_23_line_charts_exercise V.2.ipynb](./DADS5001_2024_03_23_line_charts_exercise_V.2.ipynb) | Add files via upload      | 1 minute ago     |
+| [DADS5001_2024_03_23_line_charts_exercise.ipynb](./DADS5001_2024_03_23_line_charts_exercise.ipynb) | Add files via upload      | 3 weeks ago      |
+| [Data_Homework.csv](./Data_Homework.csv)      | Add files via upload      | 3 weeks ago      |
 
 ## Reference Links
 
