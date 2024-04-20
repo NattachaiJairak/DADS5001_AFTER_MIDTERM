@@ -56,3 +56,4 @@ sample estimates:
 0.3611582 
 
 Reject the null hypothesis. The new campaign's CTR is significantly different from the industry average.
+
