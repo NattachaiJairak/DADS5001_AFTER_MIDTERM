@@ -41,6 +41,9 @@ if (p_value < significance_level) {
 } else {
   cat("Fail to reject the null hypothesis. There is insufficient evidence to conclude that the new campaign's CTR is significantly different from the industry average.\n")
 }
+
+## Result:
+
 1-sample proportions test with continuity correction
 
 data:  clicks out of impressions, null probability industry_ctr
