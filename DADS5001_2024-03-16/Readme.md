@@ -4,18 +4,13 @@
 
    2.1 https://pbpython.com/plotly-look.html
    
-   2.2 https://plotly.com/python/line-and-scatter/
-   
-4. Dash: https://dash.gallery/Portal/
+3. Dash: https://dash.gallery/Portal/
 
    3.1 https://dash.plotly.com/installation
 
-5. Lab plotly: [https://colab.research.google.com/drive/1u9UtBFgnJKxroV3h7XJw7JxbPaGuHGlL?authuser=1#scrollTo=Vc6lXCuXfMJF](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/DADS5001_2024-03-16/DADS5001_2024-03-16_In%20Class_week9_pk.ipynb)
-6. Exercise: https://www.kaggle.com/datasets/starbucks/store-locations
-
-   https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/DADS5001_2024-03-16/DADS5001_2024_03_16_SB.ipynb
-   
-8. Note: https://github.com/chrismeller/
+4. Lab plotly: https://colab.research.google.com/drive/1u9UtBFgnJKxroV3h7XJw7JxbPaGuHGlL?authuser=1#scrollTo=Vc6lXCuXfMJF
+5. Exercise: https://www.kaggle.com/datasets/starbucks/store-locations
+6. Note: https://github.com/chrismeller/
 
 ## Example
 1. https://dash.gallery/dash-avs-explorer/
