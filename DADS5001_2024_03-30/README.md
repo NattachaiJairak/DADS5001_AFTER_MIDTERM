@@ -5,5 +5,8 @@
 ## Plotly FigureWidget App Documentation
 [Plotly FigureWidget App Documentation](https://plotly.com/python/v3/figurewidget-app/#version-check)
 
+## Dash II Lab
+[Dash II Lab](https://github.com/ekaratnida/DADS5001-Data-Analytics-and-Data-Science-Tools-and-Programming/tree/main/10-Dash-II/Lab)
+
 ## Huggingface
 [Huggingface/quicktour](https://huggingface.co/docs/api-inference/quicktour)
