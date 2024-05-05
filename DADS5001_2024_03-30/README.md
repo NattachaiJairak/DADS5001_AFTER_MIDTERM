@@ -5,4 +5,5 @@
 ## Plotly FigureWidget App Documentation
 [Plotly FigureWidget App Documentation](https://plotly.com/python/v3/figurewidget-app/#version-check)
 
-https://huggingface.co/docs/api-inference/quicktour
+## Huggingface
+[Huggingface/quicktour](https://huggingface.co/docs/api-inference/quicktour)
