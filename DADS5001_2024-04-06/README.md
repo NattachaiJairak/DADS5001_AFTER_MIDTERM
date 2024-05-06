@@ -1,4 +1,7 @@
-# Advanced Dash app
+## Slide
+https://github.com/ekaratnida/DADS5001-Data-Analytics-and-Data-Science-Tools-and-Programming/tree/main/11-Dash-III
+
+## Advanced Dash app
 1. Multiple pages (sec1)
 2. Graph (sec2)
 3. Map (sec3)
