@@ -24,3 +24,9 @@
 
 ## Huggingface
 [Huggingface/quicktour](https://huggingface.co/docs/api-inference/quicktour)
+
+## Link
+- [Examples of Dash apps ](https://dash.gallery/Portal/)
+- [Good case](https://www.lemonade.com/)
+- [Huggingface Task](https://huggingface.co/tasks)
+
