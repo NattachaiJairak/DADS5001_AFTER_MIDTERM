@@ -16,6 +16,7 @@ unique_case_id_count = df["case_id"].nunique().compute()
 print("Time taken to read CSV file:", time_taken, "seconds")
 print("Total number of rows in the CSV file:", row_count)
 print("Number of unique case_id:", unique_case_id_count)
+print(df.head())
 
 app.layout = html.Div([
     html.H1("Time taken to read CSV file: " + str(time_taken) + " seconds"),
