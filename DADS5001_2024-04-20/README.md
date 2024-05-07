@@ -33,6 +33,9 @@ Delve into effective visual analytics techniques for large time series data in t
 
 You can download the Criteo 1TB Click Logs Dataset for research purposes from [here](https://ailab.criteo.com/download-criteo-1tb-click-logs-dataset/).
 
+## Criteo Attribution Modeling for Bidding Dataset
+[here](https://www.kaggle.com/datasets/sharatsachin/criteo-attribution-modeling)
+
 ## Exercise
 
 - [Dask-Exercise1](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/DADS5001_2024-04-20/1_Python%20app_example_Inclass_dask1.py)
