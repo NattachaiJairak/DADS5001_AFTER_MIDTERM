@@ -20,23 +20,18 @@ Learn how to share data between callbacks in Plotly Dash by referring to the off
 
 Discover how to integrate Dask with Dash by referring to the official documentation [here](https://dash.plotly.com/dask-dash).
 
-## Plotly Resampler
+## Plotly-Resampler Effective Visual Analytics for Large Time Series
+### Plotly Resampler
 
 For additional tools and utilities for Plotly, you can explore the Plotly Resampler library on GitHub [here](https://github.com/predict-idlab/plotly-resampler).
 
-## Effective Visual Analytics for Large Time Series
+### Effective Visual Analytics for Large Time Series
 
 Delve into effective visual analytics techniques for large time series data in the PDF "Plotly-Resampler Effective Visual Analytics for Large Time Series" [here](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/DADS5001_2024-04-20/Plotly-Resampler%20Effective%20Visual%20Analytics%20for%20Large%20Time%20Series.pdf).
 
 ## Criteo 1TB Click Logs Dataset
 
 You can download the Criteo 1TB Click Logs Dataset for research purposes from [here](https://ailab.criteo.com/download-criteo-1tb-click-logs-dataset/).
-
-## Plotly-Resampler Effective Visual Analytics for Large Time Series
-
-[Link to Plotly Resampler Effective Visual Analytics for Large Time Series.pdf](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/DADS5001_2024-04-20/Plotly-Resampler%20Effective%20Visual%20Analytics%20for%20Large%20Time%20Series.pdf)
-
-[Link to Plotly Resampler Effective Visual Analytics for Large Time Series: Web](https://github.com/predict-idlab/plotly-resampler)
 
 ## Exercise
 
