@@ -43,7 +43,6 @@ You can download the Criteo 1TB Click Logs Dataset for research purposes from [h
 
 ### Useful Links:
 
-- [Dask-dash](https://dash.plotly.com/dask-dash)
 - [Python - Global Variables](https://www.w3schools.com/python/python_variables_global.asp)
 - [JSON Editor Online
 ](https://www.bing.com/ck/a?!&&p=24a4ac4607157f07JmltdHM9MTcxNTA0MDAwMCZpZ3VpZD0xNDViN2FiNi04MmMzLTZkMWUtMWU1My02OWE5ODM2ODZjN2UmaW5zaWQ9NTIwOA&ptn=3&ver=2&hsh=3&fclid=145b7ab6-82c3-6d1e-1e53-69a983686c7e&psq=json+editor+online&u=a1aHR0cHM6Ly9qc29uZWRpdG9yb25saW5lLm9yZy8&ntb=1)
