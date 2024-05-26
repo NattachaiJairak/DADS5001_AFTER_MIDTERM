@@ -1,3 +1,6 @@
+### Clip
+[Record: Link](https://kmitlthailand-my.sharepoint.com/:f:/g/personal/66420081_kmitl_ac_th/Eossk1MAHkhCmmuHbrZPFvABc6tjYPQK4gx6hDfypwocTg?e=5%3aOoqMib&at=9)
+
 ### Data Source Description
 
 The data source pertains to CAPEX (Capital Expenditure) for investments in 2024, categorized by cost center. This dataset provides insights into the allocation of financial resources across different areas of the organization, facilitating informed decision-making aligned with strategic objectives. The data is available in a CSV format accessible via the following URL:
