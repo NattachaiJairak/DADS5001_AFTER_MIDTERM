@@ -25,6 +25,9 @@
 ## Huggingface
 [Huggingface/quicktour](https://huggingface.co/docs/api-inference/quicktour)
 
+HuggingFace
+1. Get access Tokens from "Setting" > "access token"
+
 ## Link
 - [Examples of Dash apps ](https://dash.gallery/Portal/)
 - [Good case](https://www.lemonade.com/)
