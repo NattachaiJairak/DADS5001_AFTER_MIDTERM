@@ -7,6 +7,8 @@ https://github.com/ekaratnida/DADS5001-Data-Analytics-and-Data-Science-Tools-and
 - [3. Map (sec3)](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/tree/main/DADS5001_2024-04-06/sec3)
 - [Dash Neural Machine Translation](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/DADS5001_2024-04-06/app_huggingface.py)
 
+[Exercise](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/DADS5001_2024-04-06/2024-05-26%2020_50_36-DADS5001_AfterMidterm_Class4_2024-04-06.MOV.png)
+
 ## Recommend Youtube channel
 https://www.youtube.com/c/CharmingData/videos
 
