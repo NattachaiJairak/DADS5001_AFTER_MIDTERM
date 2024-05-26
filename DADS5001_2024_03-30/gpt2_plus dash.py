@@ -1,39 +1,50 @@
-import dash
-from dash import dcc, html
-from dash.dependencies import Input, Output
 import requests
+from dash import Dash, html, dcc, Input, Output
 
+# กำหนด URL และ headers สำหรับ API
 API_URL = "https://api-inference.huggingface.co/models/gpt2"
-headers = {"Authorization": f"Bearer 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"}
+headers = {"Authorization": "Bearer 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"}
 
 def query(payload):
     response = requests.post(API_URL, headers=headers, json=payload)
-    return response.json()
+    
+    # พิมพ์ status code และข้อความที่ได้จาก response เพื่อการดีบัก
+    print("Status Code:", response.status_code)
+    print("Response Text:", response.text)
+    
+    try:
+        return response.json()
+    except requests.exceptions.JSONDecodeError:
+        print("Error decoding JSON response")
+        return None
 
-app = dash.Dash(__name__)
+# สร้างแอป Dash
+app = Dash(__name__)
 
+# ออกแบบเลย์เอาท์ของแอป
 app.layout = html.Div([
-    dcc.Input(id='input-box', type='text', value=''),
-    html.Button('Submit', id='button'),
-    html.Div(id='output-container-button')
+    dcc.Input(id='input-text', type='text', value='', style={'width': '50%'}),
+    html.Button('Submit', id='submit-button', n_clicks=0),
+    html.Div(id='output-text')
 ])
 
+# กำหนด callback สำหรับการประมวลผลอินพุตและแสดงผลลัพธ์
 @app.callback(
-    Output('output-container-button', 'children'),
-    [Input('button', 'n_clicks')],
-    [dash.dependencies.State('input-box', 'value')]
+    Output('output-text', 'children'),
+    Input('submit-button', 'n_clicks'),
+    Input('input-text', 'value')
 )
-def update_output(n_clicks, value):
-    if n_clicks is not None:
-        if value:
-            data = query(value)
-            if isinstance(data, list):
-                generated_text = '\n'.join([d.get('generated_text', 'No response') for d in data])
-            else:
-                generated_text = data.get('generated_text', 'No response')
-            return html.Div(generated_text)
+def update_output(n_clicks, input_value):
+    if n_clicks > 0 and input_value:
+        data = query({"inputs": input_value})
+        if data:
+            # ดึงเฉพาะข้อความที่สร้างขึ้นมาแสดง
+            generated_text = data[0]['generated_text']
+            return generated_text
         else:
-            return 'Please enter some text.'
+            return "No data received"
+    return ""
 
+# รันเซิร์ฟเวอร์
 if __name__ == '__main__':
     app.run_server(debug=True)
