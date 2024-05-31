@@ -11,6 +11,8 @@
 
 ![Project Image2](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/DADS5001_2024_03-30/2024-05-31%2011_43_05-app1-intro%20(1).py%20-%20Visual%20Studio%20Code.png)
 
+![Project Image3](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/DADS5001_2024_03-30/2024-04-12%2012_51_54-DADS5001_AfterMidterm_Class3_2024-03-30.MOV.png)
+
 ## Additional Files
 
 - [app1-intro.py](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/DADS5001_2024_03-30/app1-intro.py)
