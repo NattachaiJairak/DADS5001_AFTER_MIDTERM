@@ -20,6 +20,7 @@
 2. Plotly: https://plotly.com/python/
 
    2.1 https://pbpython.com/plotly-look.html
+
    2.2 https://plotly.com/python/line-and-scatter/
    
 4. Dash: https://dash.gallery/Portal/
