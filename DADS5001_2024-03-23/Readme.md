@@ -12,6 +12,10 @@ This repository contains files related to the DADS5001 course after the midterm,
 -  [DADS5001_2024_03_23_line_charts_exercise V.2.ipynb](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/DADS5001_2024-03-23/DADS5001_2024_03_23_line_charts_exercise%20V.2.ipynb)
 
   ![Image Description](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/raw/main/DADS5001_2024-03-23/2024-04-14%2022_44_04-DADS5001_AfterMidterm_Class2_2024-03-23.MOV.png)
+
+## Homework
+
+
 -  [DADS5001_2024_03_23_line_charts_Homework.ipynb](./DADS5001_2024_03_23_line_charts_Homework.ipynb) 
 -  [Data_Homework.csv](./Data_Homework.csv)
 -  [Data_README.md](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/README.md)
